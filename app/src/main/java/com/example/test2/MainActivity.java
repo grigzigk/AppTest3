@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
         CitySights.setPlace2("Koilada",url2,dscr2);
         CitySights.setPlace3("Dioikitirio",url3,dscr3);
 
+
         TextView txtViewCity = findViewById(R.id.text_view_City);
         TextView txtViewPlace1 = findViewById(R.id.text_View_Place1);
         TextView txtViewPlace2 = findViewById(R.id.text_View_Place2);
